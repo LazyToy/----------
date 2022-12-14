@@ -36,3 +36,6 @@ def my_write(text):
     pyautogui.hotkey("ctrl", "v")
 
 my_write("나도코딩")
+
+# 자동화 프로그램 종료
+# win : ctrl + alt +del
