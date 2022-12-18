@@ -21,7 +21,7 @@ pyautogui.sleep(3) # 3초 대기
 # pyautogui.middleClick() # 마우스 휠 클릭
 
 # print(pyautogui.position())
-pyautogui.moveTo(908, 161)
+# pyautogui.moveTo(908, 161)
 # pyautogui.drag(100, 0,) # 현재 위치 기준으로 x 100 만큼, y 0 만큼 드래그
 # pyautogui.drag(100, 0, duration=0.25) # 너무 빠른 동작으로 drag 수행이 안될때는 duration 값 설정
 # pyautogui.dragTo(1050, 230, duration=0.25) # 절대 좌표 기준으로 x 1050, y 230 으로 드래그
